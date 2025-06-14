@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240809-2154-Experimental"
+	Name="jeen-rpi"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="jeen-rpi"
+	OSRelease="5.15.0-1059-raspi"
+	OSVersion="#62-Ubuntu SMP PREEMPT Tue Jul 16 20:54:13 UTC 2024"
+	OSPlatform="aarch64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="8"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="1023"
+	TotalPhysicalMemory="3790"
+	LogicalProcessorsPerPhysical="4"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Aug 09 14:54 PDT</StartDateTime>
+		<StartTestTime>1723240473</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 09 14:54 PDT</EndDateTime>
+		<EndTestTime>1723240473</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
